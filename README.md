@@ -15,7 +15,7 @@
 - [Pankaj Kumar](https://github.com/pankaj1707k)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Supriya Patidar](https://github.com/supriya-045) 
-- [Raghav Goyal](https://github.com/raghavgoel25)
+- [Raghav Goel](https://github.com/raghavgoel25)
 - [Diya Waghmare](https://github.com/diyawaghmare)
 - [Ekagra Sinha](https://github.com/Ekagra)
 
