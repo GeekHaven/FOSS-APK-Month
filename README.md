@@ -20,11 +20,11 @@
 - [Ekagra Sinha](https://github.com/Ekagra)
 
 ## Task 1
-You will find a folder, named as <i>Participants</i> in the <b>main</b> branch of this repository. In that folder, you have to create a text file the  name of which will be your <b>Github Username</b>.  
+You will find a folder, named as <i>**Omicron_Batch**</i> in the <b>main</b> branch of this repository. In that folder, you have to create a text file the name of which will be your <b>Github Username</b>.  
 In that text file, you have to answer the following things :
 - Your Full Name
-- Your Nick Name (or something, you would like to be known as)
-- Your Hometown & Homestate 😂
+- Your NickName (or something, you would like to be known as 😂)
+- Your Hometown & Homestate 
 - What are you most excited to learn in the APK Month?
 - What all societies do you want to be a part of during your 4 years of college life?
 - The Course you Hate the Most
@@ -39,7 +39,7 @@ You will find a sample text file in that folder for your reference. Once you hav
 
 ## Format of Commit Message
 ```<Github_username> completed Task-1```  
-Make sure to use the above format only, while commiting your changes for Task-1.
+Make sure to use the above format only, while committing your changes for Task-1.
 
 <hr>
 
