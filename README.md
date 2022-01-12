@@ -44,4 +44,4 @@ Make sure to use the above format only, while committing your changes for Task-1
 <hr>
 
 ## What to do after Pushing?
-Once you have pushed your changes, make sure to make a PR(Pull Request) in the main branch. Once you have done that, give yourself a pat on your back, for completing Task-1.
+Once you have pushed your changes, make sure to make a PR(Pull Request) in the main branch. Once you have done that, give yourself a pat on your back, for completing Task-1
