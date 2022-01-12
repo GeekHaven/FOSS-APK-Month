@@ -1,8 +1,8 @@
-Q1.Your Full Name
+1.Your Full Name
 -->Aditya Sharma
 
 Q2.Your NickName (or something, you would like to be known as 😂)
--->Lawnmower
+-->Lawnmower08
 
 Q3.Your Hometown & Homestate
 -->Agra, Uttar Pradesh
@@ -18,6 +18,7 @@ Q6.The Course you Hate the Most
 
 Q7.Discord ID
 -->Deathrage_Hellfire #3479
+
 Q8.Github Profile URL
 -->https://github.com/Political-vulture
 
@@ -25,4 +26,4 @@ Q9.Facebook Profile URL
 -->nil
 
 Q10.Instagram Profile URL
---> Yoshikage_kira_88
+-->yoshikage_kira_88
