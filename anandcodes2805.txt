@@ -1,8 +1,1 @@
-The Beach(2000)
-<<<<<<< HEAD
-This movie helps us to explore the true meaning of life and happiness. 
-It also shows how selfishness and lies can destruct any happy society.
-=======
->>>>>>> feature
-Richard
-Francoise
+The Book (2000)
